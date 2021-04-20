@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097302035897",
+    "project_id": "latihan2-7fca0",
+    "storage_bucket": "latihan2-7fca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097302035897:android:04471c46a6798fd2df3a68",
+        "android_client_info": {
+          "package_name": "com.example.tets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097302035897-kgaih5bdin51avtr0qaa3cb87se86hh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuofik8OprsbWG9dlcg8H-NT8SYR1b058"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097302035897-kgaih5bdin51avtr0qaa3cb87se86hh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
